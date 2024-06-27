@@ -2,7 +2,7 @@
 A Startup Agency Landing Page built with Next14, Shadcn, and Tailwind.
 
 # ☁️ Deployed link
-startup-agency-orcin.vercel.app
+https://startup-agency-orcin.vercel.app/
 
 
 Figma: https://www.figma.com/file/uEeNBWjUeLY7keVOhzzFAK/Agency-Landing-Page-(Community)?type=design&node-id=0-1&mode=design&t=vsBCYIQpXOyN2LXw-0
